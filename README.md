@@ -1,4 +1,4 @@
-# multi-class-classification
+# Multi-class lassification
 
 ## Intro
 
